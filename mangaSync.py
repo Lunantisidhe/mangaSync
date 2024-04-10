@@ -6,8 +6,8 @@ key_2 = '-'
 
 pressed_keys = {key_1: False, key_2: False}
 
-title = "owo"
-message = "donete! :3"
+title = "done"
+message = "done!"
 duration_seconds = 2
 size = "300x200+650+300"
 
